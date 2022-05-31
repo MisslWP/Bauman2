@@ -1,0 +1,1 @@
+Please, input n: Invalid n! N must be more than zero and more or equal to one hundred!
